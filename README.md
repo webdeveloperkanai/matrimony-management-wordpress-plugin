@@ -21,4 +21,10 @@
 ## Full profile view 
 ![image](https://user-images.githubusercontent.com/70555095/197688859-d71c9476-c6a9-4af2-b9b8-74f322ea0b82.png)
 
+## Dashboard View 
+![image](https://user-images.githubusercontent.com/70555095/197689205-50531963-f155-4996-8732-e60725be8853.png)
+![image](https://user-images.githubusercontent.com/70555095/197689306-373e7bc4-0012-4a7e-a548-8dad6c9d7a4a.png)
+
+#### and with many more options and functionality. For development or support you can connect with me via [linkedin](https://www.linkedin.com/in/webdeveloperkanai/) 
+
 # Kanai Shil - DEV SEC IT 
